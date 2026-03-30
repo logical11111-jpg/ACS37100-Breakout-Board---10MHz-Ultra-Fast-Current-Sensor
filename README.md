@@ -5,7 +5,7 @@ Documentation and schematic reference for the Allegro ACS37100 10MHz TMR Current
 
 # Allegro ACS37100 10MHz TMR Current Sensor Evaluation Board
 
-[![Get it on Tindie](https://www.tindie.com/products/41742/)]
+[![Buy on Tindie](https://img.shields.io/badge/Tindie-Buy_Evaluation_Board-blue)](https://www.tindie.com/products/led/acs37100-breakout-fastest-tmr-current-sensor/)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Technical documentation, schematic reference, and application guide for the **ACS37100 Industry's Fastest TMR Current Sense Eval** board, engineered by LogicalEdges.
